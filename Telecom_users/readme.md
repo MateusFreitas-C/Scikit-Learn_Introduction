@@ -1,4 +1,4 @@
-# Description
+# [Description](https://colab.research.google.com/drive/1zxI_aqxLLldGpG0fC4jTNaQwKjRozO2t#scrollTo=MAOh2poCI7nh)
 Any business wants to maximize the number of customers. To achieve this goal, it is important not only to try to attract new ones, but also to retain existing ones. Retaining a client will cost the company less than attracting a new one. In addition, a new client may be weakly interested in business services and it will be difficult to work with him, while old clients already have the necessary data on interaction with the service.
 
 Accordingly, predicting the churn, we can react in time and try to keep the client who wants to leave. Based on the data about the services that the client uses, we can make him a special offer, trying to change his decision to leave the operator. This will make the task of retention easier to implement than the task of attracting new users, about which we do not know anything yet.
@@ -7,7 +7,7 @@ You are provided with a dataset from a telecommunications company. The data cont
 
 The task is to analyze the data and predict the churn of users (to identify people who will and will not renew their contract). The work should include the following mandatory items:
 
-# Data Analysis
+# [Data Analysis](https://colab.research.google.com/drive/1zxI_aqxLLldGpG0fC4jTNaQwKjRozO2t#scrollTo=0FMw0R3mI7oB)
 
 ## Total Churn Rate
 <img src = "https://github.com/MateusFreitas-C/Introduction_SkLearn/blob/main/Telecom_users/graphs/churn_plot.png?raw=true">
@@ -36,7 +36,7 @@ Tech Support            |  Internet Service          | Payment Method
 :-----------------------------------:|:-----------------------------------:|:-----------------------------------:
 ![image](https://user-images.githubusercontent.com/83030060/129969584-f36d95d0-d008-4608-b823-ce6956cb3f52.png) | ![image](https://user-images.githubusercontent.com/83030060/129969607-f8647a06-93eb-49b0-8755-cb69a4f2b229.png)  | ![image](https://user-images.githubusercontent.com/83030060/129969623-398ffd17-3521-4970-95b7-300c90c63fc5.png)
 
-# Machine Learning Model
+# [Machine Learning Model](https://colab.research.google.com/drive/1zxI_aqxLLldGpG0fC4jTNaQwKjRozO2t#scrollTo=2lnve1YdI7oJ)
 
 ## Accuracy Score
 
