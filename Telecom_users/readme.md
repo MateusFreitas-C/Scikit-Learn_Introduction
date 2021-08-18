@@ -44,10 +44,9 @@ The Logistic Regression model was used and presented an accuracy of 79.05%.
 ~~~python
 print("Accuracy score of {} is {:.2f}%\n".format(model, accuracy_score(y_test, pred)*100))
 ~~~
-Accuracy score of LogisticRegression() is 79.05%
-~~~python
-
+Accuracy score of LogisticRegression is 79.05%
 ## Classification Report
+~~~python
 (classification_report(y_test,pred)
 ~~~
   
