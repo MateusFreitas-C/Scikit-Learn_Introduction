@@ -65,9 +65,7 @@ sns.heatmap(confusion_matrix(y_test, pred), annot=True)
 ~~~  
 
 
-![confusion_matrix](https://user-images.githubusercontent.com/83030060/129972567-6f277148-d8c7-4d52-b605-9e49d770309e.jpg)
-
-
+![confusion_matrix](https://user-images.githubusercontent.com/83030060/130258951-5301a338-7b98-46fd-87c2-b722efb502fe.jpg)
 
 
 
